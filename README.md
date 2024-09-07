@@ -43,6 +43,4 @@ These algorithms are used in:
 
 Any improvements or suggestions are most welcome!
 
----
 
-This README file provides a concise yet detailed overview of your project, making it easy for others to understand and navigate. You can always expand it as you add more algorithms!
